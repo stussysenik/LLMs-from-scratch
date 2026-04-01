@@ -1,5 +1,8 @@
 # Build a Large Language Model (From Scratch)
 
+![Demo](demo.gif)
+
+
 This repository contains the code for developing, pretraining, and finetuning a GPT-like LLM and is the official code repository for the book [Build a Large Language Model (From Scratch)](https://amzn.to/4fqvn0D).
 
 <br>
